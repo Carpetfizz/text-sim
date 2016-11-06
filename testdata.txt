@@ -1,0 +1,21 @@
+Inspired by Google DeepMind’s success with the creation of AlphaGo earlier this year — an AI machine capable of playing the ancient game Go to an expert level — Blizzard is looking to expand the player base for its real-time strategy (RTS) game, StarCraft 2.
+
+Blizzard Entertainment president Mike Morhaime announced during BlizzCon 2016’s keynote presentation that the company is teaming up with DeepMind to make StarCraft 2 available to some of the most advanced AI players. The goal is to test the limits of modern artificial intelligence by seeing if it can learn to play a complex game that takes quick thinking like StarCraft 2.
+
+StarCraft 2 is both visually challenging, oftentimes leaving players without the ability to see what their opponents are doing, and relies heavily on cunning gameplay. Allowing AI machines the ability to try and learn to play — and master — the game will be the next step in seeing if artificial intelligence can mirror human intelligence.
+
+Researchers interested in using the RTS game to test how AI responds to it will be able to do so early next year. Blizzard is working on modifications for the game that will allow researchers to build systems specifically for the purpose of learning to play StarCraft 2. Those modifications are expected to be ready for release sometime within the first quarter.
+
+During the keynote presentation, Blizzard confirmed that the game will be getting new co-op missions and co-op commander. The company also said that the third and final Nova missions set would be available to play as of Nov. 22.
+
+BlizzCon will run from Friday Nov. 4 through Saturday Nov. 5. In order to watch panels, esports events and interviews, fans have to purchase a Virtual Ticket through Blizzard’s website. Polygon will be on the ground in Anaheim, California to cover the conference.
+
+=============================
+
+DeepMind, the British artificial intelligence company that's now a part of Google, stunned the world back in March when its AlphaGo AI defeated world-champion Go player Lee Se-dol to achieve one of the most sought-after feats in computer science. The ancient Chinese board game of Go was considered the most difficult "perfect information" game for computers to crack, as the dizzying complexity produced by its simple rules requires a highly advanced degree of intuition to play at a serious level, but AlphaGo managed it with a revolutionary system built on neural networks and machine learning.
+
+Now DeepMind is turning its attention to a game that will pose an even bigger challenge: StarCraft II. Blizzard Entertainment's real-time strategy hit is one of the most fiercely competitive games played professionally around the world, and the company is working together with DeepMind to release it as an AI research environment. The announcement is being made at Blizzard’s annual conference, BlizzCon.
+
+"StarCraft is an interesting testing environment for current AI research because it provides a useful bridge to the messiness of the real-world," says Oriol Vinyals, a DeepMind research scientist who was once the top-ranked StarCraft player in Spain. "The skills required for an agent to progress through the environment and play StarCraft well could ultimately transfer to real-world tasks." Creating strong StarCraft AIs would obviously also have major implications for the game itself, with the potential for customized virtual coaches to raise the level of play across the board.
+
+StarCraft is a complex strategy game that involves resource management, scouting, and battle tactics. Unlike Go, players are unable to see the entire field of play at once, meaning they have less information to work with when planning their moves; it’s a test of memory and adaptation as much as it is long-term planning. "The thing about Go is obviously you can see everything on the board, so that makes it slightly easier for computers," DeepMind founder Demis Hassabis told me earlier this year, in an interview that Blizzard executive producer Chris Sigaty says "got some discussions going" between the two parties.

@@ -1,0 +1,56 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+textarea {
+    resize: none;
+}
+
+.doc {
+    height: 100%;
+    width: 50%;
+    padding: 10px;
+    z-index: 0;
+    outline: none;
+    border: 0px;
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+#doc1{
+    float: left;
+    background-color: #1abc9c;
+}
+
+#doc2{
+    float: right;
+    background-color: #16a085;
+}
+
+#compare-btn{
+    position: absolute;
+    z-index: 1;
+    height: 70px;
+    width: 150px;
+    bottom: 10px;
+    right: calc(50% - 75px);
+    background-color: #3498db;
+    border: 0px;
+    border-radius: 3px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
+    color: white;
+    font-size: 24px;
+}
+
+#compare-btn:not([disabled]):hover {
+    background-color: #2980b9; 
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

@@ -103,7 +103,7 @@ function cosim(v1, v2) {
         The dot product between two vectors A, B is defined as:
         dot(A, B) = |A|*|B|*cos(theta)
         so...
-        cos(theta) = (|A|*|B|) / dot(A, B)
+        cos(theta) = dot(A, B) / (|A|*|B|)
         Ranges from 0 to 1
     */
     
